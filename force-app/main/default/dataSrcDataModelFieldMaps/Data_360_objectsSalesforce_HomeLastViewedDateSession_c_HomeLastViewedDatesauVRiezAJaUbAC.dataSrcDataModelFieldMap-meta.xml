@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <filterApplied>false</filterApplied>
-    <masterLabel>Data_360_objectsSalesforce_HomeLastViewedDateSession_c_HomeLastViewedDatesauVRiezAJaUbAC</masterLabel>
-    <sourceField>Session_c_Home1.LastViewedDate__c</sourceField>
-    <targetField>Session_c_Home__dlm.LastViewedDate__c</targetField>
-    <templateVersion>1</templateVersion>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>

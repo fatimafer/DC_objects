@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
-    <dataPackageKitDef>Data_360_objects</dataPackageKitDef>
+    <dataPackageKitDef>Coral_cloud_model</dataPackageKitDef>
     <developerName>Guests</developerName>
     <masterLabel>Guests__dll</masterLabel>
     <sourceObject>Guests1</sourceObject>

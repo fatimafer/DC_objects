@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <filterApplied>false</filterApplied>
-    <masterLabel>Data_360_objectsSalesforce_HomeSuppliedNameCase_HomeSuppliedNameylhSrJhKiFjWXEc</masterLabel>
-    <sourceField>Case_Home1.SuppliedName__c</sourceField>
-    <targetField>Case_Home__dlm.SuppliedName__c</targetField>
-    <templateVersion>1</templateVersion>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>

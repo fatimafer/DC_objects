@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <filterApplied>false</filterApplied>
-    <masterLabel>Data_360_objectsSalesforce_HomeCreatedDateBooking_c_HomeCreatedDateXHJrfsYdBYkHMUd</masterLabel>
-    <sourceField>Booking_c_Home1.CreatedDate__c</sourceField>
-    <targetField>Booking_c_Home__dlm.CreatedDate__c</targetField>
-    <templateVersion>1</templateVersion>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
-    <dataPackageKitDef>Data_360_objects</dataPackageKitDef>
+    <dataPackageKitDef>Coral_cloud_model</dataPackageKitDef>
     <developerName>SalesforceDotCom_Home2</developerName>
     <masterLabel>Salesforce Connector EPIC OrgFarm Home</masterLabel>
-    <sourceObject>Session_c_Home_1793784851689</sourceObject>
+    <sourceObject>Experience_c_Home_1793869018462</sourceObject>
     <sourceObjectType>DataStreamTemplate</sourceObjectType>
     <targetObject>SalesforceDotCom_Home</targetObject>
 </DataKitObjectDependency>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataStreamTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataSourceBundleDefinition>SF_Datastreams</dataSourceBundleDefinition>
+    <dataSourceObject>Session_c_Home1</dataSourceObject>
+    <fullRefreshIntervalDays>NONE</fullRefreshIntervalDays>
+    <masterLabel>Session__c_Home</masterLabel>
+    <objectCategory>Salesforce_SFDCReferenceModel_0_93.Related</objectCategory>
+    <refreshFrequency>BATCH</refreshFrequency>
+    <refreshMode>UPSERT</refreshMode>
+    <sourceObjectName>Session_c_Home</sourceObjectName>
+    <streamType>INGEST</streamType>
+    <templateVersion>2</templateVersion>
+</DataStreamTemplate>

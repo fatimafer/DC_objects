@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Coral_cloud_modelSalesforce_HomeCapacity_cSession_c_HomeCapacity_cSXLCsJfrWnxUFan</masterLabel>
+    <sourceField>Session_c_Home1.Capacity_c__c</sourceField>
+    <targetField>Session_c_Home__dlm.Capacity_c__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

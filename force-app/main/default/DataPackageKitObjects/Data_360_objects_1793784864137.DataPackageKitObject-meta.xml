@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>Data_360_objects</masterLabel>
-    <parentDataPackageKitDefinitionName>Data_360_objects</parentDataPackageKitDefinitionName>
-    <referenceObjectName>Booking_c_Home_Contact_c_map_ssot_Party_ssot_Id_1793731210112</referenceObjectName>
-    <referenceObjectType>FieldSrcTrgtRelationship</referenceObjectType>
-</DataPackageKitObject>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Coral_cloud_modelSalesforce_HomeLanguageCase_HomeLanguageHbsYixNwygGcnDw</masterLabel>
+    <sourceField>Case_Home1.Language__c</sourceField>
+    <targetField>Case_Home__dlm.Language__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>
