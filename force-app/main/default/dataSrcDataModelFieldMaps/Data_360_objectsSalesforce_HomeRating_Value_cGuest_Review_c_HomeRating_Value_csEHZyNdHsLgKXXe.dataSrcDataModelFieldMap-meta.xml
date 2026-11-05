@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Data_360_objectsSalesforce_HomeRating_Value_cGuest_Review_c_HomeRating_Value_csEHZyNdHsLgKXXe</masterLabel>
+    <sourceField>Guest_Review_c_Home1.Rating_Value_c__c</sourceField>
+    <targetField>Guest_Review_c_Home__dlm.Rating_Value_c__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

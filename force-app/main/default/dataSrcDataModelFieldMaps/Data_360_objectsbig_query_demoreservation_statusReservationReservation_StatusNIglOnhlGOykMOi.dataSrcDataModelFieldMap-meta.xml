@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>Data_360_objectsbig_query_demoreservation_statusReservationReservation_StatusNIglOnhlGOykMOi</masterLabel>
+    <sourceField>reservations_deluxe1.reservation_status__c</sourceField>
+    <targetField>Reservation__dlm.Reservation_Status__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

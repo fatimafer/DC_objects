@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Data_360_objectsSalesforce_HomeStart_Time_cSession_c_HomeStart_Time_cPBPTJLQeIOdyFfg</masterLabel>
+    <sourceField>Session_c_Home1.Start_Time_c__c</sourceField>
+    <targetField>Session_c_Home__dlm.Start_Time_c__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

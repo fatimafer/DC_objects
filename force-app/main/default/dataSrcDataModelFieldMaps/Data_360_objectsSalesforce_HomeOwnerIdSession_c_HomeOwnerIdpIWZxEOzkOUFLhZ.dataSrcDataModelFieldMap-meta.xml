@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Data_360_objectsSalesforce_HomeOwnerIdSession_c_HomeOwnerIdpIWZxEOzkOUFLhZ</masterLabel>
+    <sourceField>Session_c_Home1.OwnerId__c</sourceField>
+    <targetField>Session_c_Home__dlm.OwnerId__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

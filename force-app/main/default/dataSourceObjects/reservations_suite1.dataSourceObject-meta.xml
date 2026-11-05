@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSourceObject xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <accelerationEnabled>YES</accelerationEnabled>
+    <dataSource>AWS_Redshift</dataSource>
+    <dataSourceFields>
+        <fullName>booking_channel</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>booking_channel</externalName>
+        <fieldFormula>sourceField[&apos;booking_channel&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_booking_channel</keyQualifierName>
+        <masterLabel>booking_channel</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>check_in_date</fullName>
+        <datatype>D</datatype>
+        <dateFormat>MM/dd/yyyy</dateFormat>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>date</externalDataType>
+        <externalName>check_in_date</externalName>
+        <fieldFormula>sourceField[&apos;check_in_date&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>true</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_check_in_date</keyQualifierName>
+        <masterLabel>check_in_date</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber>1.0</versionNumber>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>check_out_date</fullName>
+        <datatype>D</datatype>
+        <dateFormat>MM/dd/yyyy</dateFormat>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>date</externalDataType>
+        <externalName>check_out_date</externalName>
+        <fieldFormula>sourceField[&apos;check_out_date&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_check_out_date</keyQualifierName>
+        <masterLabel>check_out_date</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber>1.0</versionNumber>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>contact_id</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>contact_id</externalName>
+        <fieldFormula>sourceField[&apos;contact_id&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_contact_id</keyQualifierName>
+        <masterLabel>contact_id</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>creation_date</fullName>
+        <datatype>D</datatype>
+        <dateFormat>MM/dd/yyyy</dateFormat>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>date</externalDataType>
+        <externalName>creation_date</externalName>
+        <fieldFormula>sourceField[&apos;creation_date&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_creation_date</keyQualifierName>
+        <masterLabel>creation_date</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber>1.0</versionNumber>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>DataSource</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>System</definitionCreationType>
+        <externalName>DataSource</externalName>
+        <fieldFormula>AWS_Redshift</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>true</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_DataSource</keyQualifierName>
+        <masterLabel>Data Source</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>DataSourceObject</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>System</definitionCreationType>
+        <externalName>DataSourceObject</externalName>
+        <fieldFormula>dev_coral_cloud_demo</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>true</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_DataSourceObject</keyQualifierName>
+        <masterLabel>Data Source Object</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>InternalOrganization</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>System</definitionCreationType>
+        <externalName>InternalOrganization</externalName>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>true</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_InternalOrganization</keyQualifierName>
+        <masterLabel>Internal Organization</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>last_modified_date</fullName>
+        <datatype>D</datatype>
+        <dateFormat>MM/dd/yyyy</dateFormat>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>date</externalDataType>
+        <externalName>last_modified_date</externalName>
+        <fieldFormula>sourceField[&apos;last_modified_date&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_last_modified_date</keyQualifierName>
+        <masterLabel>last_modified_date</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber>1.0</versionNumber>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>last_modified_ts</fullName>
+        <datatype>F</datatype>
+        <dateFormat>MM/dd/yyyy HH:mm:ss.SSS</dateFormat>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>timestamp</externalDataType>
+        <externalName>last_modified_ts</externalName>
+        <fieldFormula>sourceField[&apos;last_modified_ts&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_last_modified_ts</keyQualifierName>
+        <masterLabel>last_modified_ts</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber>1.0</versionNumber>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>number_of_adults</fullName>
+        <datatype>N</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>int4</externalDataType>
+        <externalName>number_of_adults</externalName>
+        <fieldFormula>sourceField[&apos;number_of_adults&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_number_of_adults</keyQualifierName>
+        <masterLabel>number_of_adults</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>number_of_children</fullName>
+        <datatype>N</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>int4</externalDataType>
+        <externalName>number_of_children</externalName>
+        <fieldFormula>sourceField[&apos;number_of_children&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_number_of_children</keyQualifierName>
+        <masterLabel>number_of_children</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>payment_status</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>payment_status</externalName>
+        <fieldFormula>sourceField[&apos;payment_status&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_payment_status</keyQualifierName>
+        <masterLabel>payment_status</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>rate_plan</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>rate_plan</externalName>
+        <fieldFormula>sourceField[&apos;rate_plan&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_rate_plan</keyQualifierName>
+        <masterLabel>rate_plan</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>reservation_id</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>reservation_id</externalName>
+        <fieldFormula>sourceField[&apos;reservation_id&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_reservation_id</keyQualifierName>
+        <masterLabel>reservation_id</masterLabel>
+        <primaryIndexOrder>1</primaryIndexOrder>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>reservation_status</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>reservation_status</externalName>
+        <fieldFormula>sourceField[&apos;reservation_status&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_reservation_status</keyQualifierName>
+        <masterLabel>reservation_status</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>room_number</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>room_number</externalName>
+        <fieldFormula>sourceField[&apos;room_number&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_room_number</keyQualifierName>
+        <masterLabel>room_number</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>room_type</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>room_type</externalName>
+        <fieldFormula>sourceField[&apos;room_type&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_room_type</keyQualifierName>
+        <masterLabel>room_type</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>source_system</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>source_system</externalName>
+        <fieldFormula>sourceField[&apos;source_system&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_source_system</keyQualifierName>
+        <masterLabel>source_system</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>special_requests</fullName>
+        <datatype>S</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>varchar</externalDataType>
+        <externalName>special_requests</externalName>
+        <fieldFormula>sourceField[&apos;special_requests&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_special_requests</keyQualifierName>
+        <masterLabel>special_requests</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>taxes_and_fees</fullName>
+        <datatype>N</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>numeric</externalDataType>
+        <externalName>taxes_and_fees</externalName>
+        <fieldFormula>sourceField[&apos;taxes_and_fees&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_taxes_and_fees</keyQualifierName>
+        <masterLabel>taxes_and_fees</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <dataSourceFields>
+        <fullName>total_price</fullName>
+        <datatype>N</datatype>
+        <definitionCreationType>Custom</definitionCreationType>
+        <externalDataType>numeric</externalDataType>
+        <externalName>total_price</externalName>
+        <fieldFormula>sourceField[&apos;total_price&apos;]</fieldFormula>
+        <isDataRequired>false</isDataRequired>
+        <isEventDate>false</isEventDate>
+        <isFormula>false</isFormula>
+        <isKeyQualifierFromSource>false</isKeyQualifierFromSource>
+        <isRecordModified>false</isRecordModified>
+        <keyQualifierName>KQ_total_price</keyQualifierName>
+        <masterLabel>total_price</masterLabel>
+        <sequence xsi:nil="true"/>
+        <usageTag>NONE</usageTag>
+        <versionNumber xsi:nil="true"/>
+    </dataSourceFields>
+    <externalDatabaseName>dev</externalDatabaseName>
+    <externalObjectName>reservations_premium</externalObjectName>
+    <externalRecordIdentifier>reservations_premium</externalRecordIdentifier>
+    <externalSchemaName>coral_cloud_demo</externalSchemaName>
+    <masterLabel>reservations_suite</masterLabel>
+    <objectType>Object</objectType>
+    <sourceObject>reservations_suite__dll</sourceObject>
+    <storageType>EXTERNAL</storageType>
+    <templateVersion>1</templateVersion>
+</DataSourceObject>
