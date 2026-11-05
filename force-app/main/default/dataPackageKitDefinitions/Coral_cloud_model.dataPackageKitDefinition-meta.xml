@@ -9,5 +9,5 @@
     <isEnabled>false</isEnabled>
     <masterLabel>Coral_cloud_model</masterLabel>
     <useDeterministicNaming>false</useDeterministicNaming>
-    <versionNumber>7.0</versionNumber>
+    <versionNumber>8.0</versionNumber>
 </DataPackageKitDefinition>
