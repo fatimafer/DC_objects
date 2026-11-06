@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Datakit_CompletoSalesforce_HomeReviews_Summary_cExperience_c_HomeReviews_Summary_cBluUlCkrDPuLrwJ</masterLabel>
+    <sourceField>Experience_c_Home2.Reviews_Summary_c__c</sourceField>
+    <targetField>Experience_c_Home__dlm.Reviews_Summary_c__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

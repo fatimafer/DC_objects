@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>Datakit_Completobig_query_democheck_in_dateReservationCheck_in_DateCFLXmgiNXyrMBaF</masterLabel>
+    <sourceField>reservations_deluxe2.check_in_date__c</sourceField>
+    <targetField>Reservation__dlm.Check_in_Date__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

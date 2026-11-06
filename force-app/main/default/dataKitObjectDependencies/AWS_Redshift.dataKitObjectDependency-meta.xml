@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
-    <dataPackageKitDef>Coral_cloud_model</dataPackageKitDef>
-    <developerName>AWS_Redshift</developerName>
-    <masterLabel>AWS_Redshift</masterLabel>
-    <sourceObject>reservations_suite_1793869765239</sourceObject>
-    <sourceObjectType>DataStreamTemplate</sourceObjectType>
-    <targetObject>AWS_Redshift</targetObject>
-</DataKitObjectDependency>

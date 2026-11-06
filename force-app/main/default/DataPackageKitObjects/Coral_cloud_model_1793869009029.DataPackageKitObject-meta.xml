@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>Coral_cloud_model</masterLabel>
-    <parentDataPackageKitDefinitionName>Coral_cloud_model</parentDataPackageKitDefinitionName>
-    <referenceObjectName>SF_Datastreams</referenceObjectName>
-    <referenceObjectType>DataSourceBundleDefinition</referenceObjectType>
-</DataPackageKitObject>

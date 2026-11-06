@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <filterApplied>false</filterApplied>
-    <masterLabel>Coral_cloud_modelSalesforce_Homecdp_sys_record_currencyExperience_c_Homecdp_sys_record_currencyeugDBFWpbXNiUTU</masterLabel>
-    <sourceField>Experience_c_Home1.cdp_sys_record_currency__c</sourceField>
-    <targetField>Experience_c_Home__dlm.cdp_sys_record_currency__c</targetField>
-    <templateVersion>1</templateVersion>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>
