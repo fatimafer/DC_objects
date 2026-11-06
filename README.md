@@ -11,11 +11,11 @@ https://github.com/fatimafer/DC_connections.git
 
 ## Instalar el Datakit
 
-Una vez realizados los pasos anteriores abrimos un terminal, preferentemente en VSCODE
-```
-git clone https://github.com/fatimafer/DC_cloud_objects.git
-```
-Si es otra terminal o no conectados a salesforce CLI, nos conectamos
+Abrimos en el navegador el Playground de Data 360 que hemos creado en el paso anterior.
+Abrimos un terminal que tenga Salesforce CLI instalado, preferentemente en VSCODE
+
+
+Nos conectamos al playground creado en el paso anterior.
 ```
 sf org login web -s -a coral-cloud
 ```
