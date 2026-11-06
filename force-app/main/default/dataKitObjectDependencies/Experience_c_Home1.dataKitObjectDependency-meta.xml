@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
-    <dataPackageKitDef>Datakit_Completo</dataPackageKitDef>
-    <developerName>Experience_c_Home1</developerName>
-    <masterLabel>Experience_c_Home__dll</masterLabel>
-    <sourceObject>Experience_c_Home2</sourceObject>
-    <sourceObjectType>DataSourceObject</sourceObjectType>
-    <targetObject>Experience_c_Home1</targetObject>
-</DataKitObjectDependency>

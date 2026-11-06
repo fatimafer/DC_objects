@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
-    <dataPackageKitDef>Datakit_Completo</dataPackageKitDef>
-    <developerName>reservations_suite1</developerName>
-    <masterLabel>reservations_suite__dll</masterLabel>
-    <sourceObject>reservations_suite2</sourceObject>
-    <sourceObjectType>DataSourceObject</sourceObjectType>
-    <targetObject>reservations_suite1</targetObject>
-</DataKitObjectDependency>

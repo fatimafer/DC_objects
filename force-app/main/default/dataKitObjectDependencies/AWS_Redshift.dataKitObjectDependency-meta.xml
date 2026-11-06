@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>Datakit_Completo</dataPackageKitDef>
+    <developerName>AWS_Redshift</developerName>
+    <masterLabel>AWS_Redshift</masterLabel>
+    <sourceObject>reservations_suite_1793960481510</sourceObject>
+    <sourceObjectType>DataStreamTemplate</sourceObjectType>
+    <targetObject>AWS_Redshift</targetObject>
+</DataKitObjectDependency>

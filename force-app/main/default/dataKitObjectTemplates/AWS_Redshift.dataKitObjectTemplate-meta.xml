@@ -6,5 +6,5 @@
     <parentDataPackageKitDefinitionName xsi:nil="true"/>
     <sourceObject>AWS_Redshift</sourceObject>
     <sourceObjectType>MktDataConnection</sourceObjectType>
-    <templateVersion>2</templateVersion>
+    <templateVersion>1</templateVersion>
 </DataKitObjectTemplate>

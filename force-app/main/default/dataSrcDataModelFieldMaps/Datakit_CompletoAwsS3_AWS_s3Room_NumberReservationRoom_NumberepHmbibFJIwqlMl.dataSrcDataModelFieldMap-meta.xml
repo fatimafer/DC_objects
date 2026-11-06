@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>Datakit_CompletoAwsS3_AWS_s3Room_NumberReservationRoom_NumberepHmbibFJIwqlMl</masterLabel>
+    <sourceField>reservations_standard4.Room_Number__c</sourceField>
+    <targetField>Reservation__dlm.Room_Number__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

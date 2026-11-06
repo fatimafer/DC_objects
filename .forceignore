@@ -12,3 +12,6 @@ package.xml
 **/__tests__/**
 
 node_modules/
+
+# Data 360: lookup huérfano en Reservation__dlm (sin FieldSrcTrgtRelationship)
+**/objects/Reservation__dlm/fields/rel_1725982094015_end__c.field-meta.xml

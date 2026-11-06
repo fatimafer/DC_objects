@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataStreamTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataSourceBundleDefinition>SF_DS</dataSourceBundleDefinition>
+    <dataSourceObject>Booking_c_Home4</dataSourceObject>
+    <fullRefreshIntervalDays>NONE</fullRefreshIntervalDays>
+    <masterLabel>Booking__c_Home</masterLabel>
+    <objectCategory>Salesforce_SFDCReferenceModel_0_93.Engagement</objectCategory>
+    <refreshFrequency>BATCH</refreshFrequency>
+    <refreshMode>UPSERT</refreshMode>
+    <sourceObjectName>Booking_c_Home</sourceObjectName>
+    <streamType>INGEST</streamType>
+    <templateVersion>3</templateVersion>
+</DataStreamTemplate>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Datakit_CompletoSalesforce_HomeAssetIdCase_HomeAssetIdMywOtzCQALpDwos</masterLabel>
+    <sourceField>Case_Home4.AssetId__c</sourceField>
+    <targetField>Case_Home__dlm.AssetId__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

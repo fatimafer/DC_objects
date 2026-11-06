@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>Datakit_CompletoSalesforce_Homecdp_sys_record_currencyBooking_c_Homecdp_sys_record_currencyQAbvSnRdaSqbiWV</masterLabel>
+    <sourceField>Booking_c_Home4.cdp_sys_record_currency__c</sourceField>
+    <targetField>Booking_c_Home__dlm.cdp_sys_record_currency__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

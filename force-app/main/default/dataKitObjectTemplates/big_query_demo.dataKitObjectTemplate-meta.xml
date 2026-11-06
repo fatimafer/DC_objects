@@ -6,5 +6,5 @@
     <parentDataPackageKitDefinitionName xsi:nil="true"/>
     <sourceObject>big_query_demo</sourceObject>
     <sourceObjectType>MktDataConnection</sourceObjectType>
-    <templateVersion>2</templateVersion>
+    <templateVersion>1</templateVersion>
 </DataKitObjectTemplate>

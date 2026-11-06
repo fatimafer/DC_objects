@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
-    <filterApplied>false</filterApplied>
-    <masterLabel>Datakit_CompletoSalesforce_HomeExperience_Name_cBooking_c_HomeExperience_Name_cKVXuzEUkBkRnVAS</masterLabel>
-    <sourceField>Booking_c_Home2.Experience_Name_c__c</sourceField>
-    <targetField>Booking_c_Home__dlm.Experience_Name_c__c</targetField>
-    <templateVersion>1</templateVersion>
-    <versionNumber>1.0</versionNumber>
-</DataSrcDataModelFieldMap>
