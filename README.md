@@ -38,6 +38,50 @@ Y si todo ha ido bien, desplegamos definitivamente
 sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 ```
 
+## Pasos posteriores
+
+### Lanzar los Datastreams de AWS y GCLOUD
+
+* Vamos a la pestaña de Data Streams
+
+    ![alt text](images/Data_streams.png)
+
+
+* Lanzamos los Datastreams reservations_suite, reservations_deluxe, reservations_standard y guest. Para ello hacemos click en la flecha y en refresh now
+
+    ![alt text](images/Refresh_now.png)
+
+* Seleccionamos full refresh y hacemos click en Refresh Now
+
+    ![alt text](images/fullrefresh.png)
+
+* Esperamos a que Last Run Status cambie a Success
+
+    ![alt text](images/Success.png)
+
+
+### Lanzar Identity Resolution
+
+* Vamos a la pestaña de Identity Resolution
+
+    ![alt text](images/resolution.png)
+
+
+* Seleccionamos Resolution based on Email and name
+
+    ![alt text](images/resolution_based.png.png)
+
+
+* Hacemos click en el botón superior derecho llamado Run Ruleset
+
+    ![alt text](images/ruleset.png)
+
+
+* Esperamos a que Last job Status estado cambie a Succeeded
+
+    ![alt text](images/sucecced.png)
+
+
 
 ## Si vemos errores, existe un bug Data Governance, policy All Data Access Ruleset
 

@@ -9,5 +9,5 @@
     <refreshMode>UPSERT</refreshMode>
     <sourceObjectName>Booking_c_Home</sourceObjectName>
     <streamType>INGEST</streamType>
-    <templateVersion>4</templateVersion>
+    <templateVersion>5</templateVersion>
 </DataStreamTemplate>

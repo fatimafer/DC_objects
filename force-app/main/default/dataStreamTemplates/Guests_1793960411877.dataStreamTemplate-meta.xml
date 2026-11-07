@@ -38,5 +38,5 @@
     <refreshMode>UPSERT</refreshMode>
     <sourceObjectName>Guests</sourceObjectName>
     <streamType>INGEST</streamType>
-    <templateVersion>3</templateVersion>
+    <templateVersion>4</templateVersion>
 </DataStreamTemplate>

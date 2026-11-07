@@ -176,11 +176,6 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Total_CLV</members>
-        <members>Yearly_CLV</members>
-        <name>DataCalcInsightTemplate</name>
-    </types>
-    <types>
         <members>AWS_Redshift</members>
         <members>AWS_s3</members>
         <members>Account_Home</members>
@@ -197,10 +192,8 @@
         <members>SalesforceDotCom_Home22</members>
         <members>SalesforceDotCom_Home23</members>
         <members>SalesforceDotCom_Home24</members>
-        <members>SalesforceDotCom_Home25</members>
         <members>SalesforceDotCom_Home26</members>
         <members>SalesforceDotCom_Home27</members>
-        <members>SalesforceDotCom_Home29</members>
         <members>Session_c_Home</members>
         <members>User_Home</members>
         <members>big_query_demo</members>
@@ -222,10 +215,9 @@
         <members>External_Reservation_c_Home</members>
         <members>Guest_Review_c_Home</members>
         <members>Guests</members>
-        <members>Individual_ccid5</members>
+        <members>Individual_ccid6</members>
         <members>Sales_Representative</members>
         <members>SalesforceDotCom_Home</members>
-        <members>Semantic_layer</members>
         <members>Session_c_Home</members>
         <members>User_Home</members>
         <members>big_query_demo</members>
@@ -263,11 +255,9 @@
         <members>Datakit_Completo_1793926380147</members>
         <members>Datakit_Completo_1793926380283</members>
         <members>Datakit_Completo_1793926380434</members>
-        <members>Datakit_Completo_1793926380562</members>
         <members>Datakit_Completo_1793926380753</members>
         <members>Datakit_Completo_1793926380881</members>
         <members>Datakit_Completo_1793926380999</members>
-        <members>Datakit_Completo_1793926381148</members>
         <members>Datakit_Completo_1793926381284</members>
         <members>Datakit_Completo_1793926381647</members>
         <members>Datakit_Completo_1793926382247</members>
@@ -289,16 +279,13 @@
         <members>Datakit_Completo_1793960479379</members>
         <members>Datakit_Completo_1793960479603</members>
         <members>Datakit_Completo_1793960480366</members>
-        <members>Datakit_Completo_1793960595192</members>
-        <members>Datakit_Completo_1793960613429</members>
         <members>Datakit_Completo_1794015677955</members>
         <members>Datakit_Completo_1794015679049</members>
-        <members>Datakit_Completo_1794018155934</members>
         <members>Datakit_Completo_1794022725981</members>
         <members>Datakit_Completo_1794022727110</members>
         <members>Datakit_Completo_1794022728840</members>
-        <members>Datakit_Completo_1794052505414</members>
-        <members>Datakit_Completo_1794052505695</members>
+        <members>Datakit_Completo_1794061638469</members>
+        <members>Datakit_Completo_1794061652030</members>
         <name>DataPackageKitObject</name>
     </types>
     <types>
@@ -396,24 +383,12 @@
         <members>Datakit_CompletoSalesforce_HomeAccountIdAccountContactAccountIdHgrUskKwBZbyMcO</members>
         <members>Datakit_CompletoSalesforce_HomeAccountIdCase_HomeAccountIdZJMAISliyhfDxHe</members>
         <members>Datakit_CompletoSalesforce_HomeAccountIdUserAccountIdWEbTUGakWtxNmPZ</members>
-        <members>Datakit_CompletoSalesforce_HomeAccountNumberAccountNumberBPlcXUkaYDJMoOZ</members>
-        <members>Datakit_CompletoSalesforce_HomeAccountSourceAccountAccountSourceUDWTmdNEppXJNRt</members>
         <members>Datakit_CompletoSalesforce_HomeActivity_Level_cBooking_c_HomeActivity_Level_cBBXFPUgDLllaCaQ</members>
         <members>Datakit_CompletoSalesforce_HomeActivity_Level_cExperience_c_HomeActivity_Level_cVNVWHdysJwfRsuO</members>
-        <members>Datakit_CompletoSalesforce_HomeAnnualRevenueAccountAnnualRevenueAmountmlThqTzMJqSEDmI</members>
         <members>Datakit_CompletoSalesforce_HomeAssetIdCase_HomeAssetIdMywOtzCQALpDwos</members>
         <members>Datakit_CompletoSalesforce_HomeAssistantNameAccountContactAssistantNamelbedFDVMQBtiyGi</members>
         <members>Datakit_CompletoSalesforce_HomeAssistantPhoneAccountContactAssistantPhoneMQoJAvbJJuMADVs</members>
         <members>Datakit_CompletoSalesforce_HomeAvailable_Slots_cSession_c_HomeAvailable_Slots_cAhQOKwraPywwTkA</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingCityContactPointAddressCityIdVpDNUIepsMnQZwM</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingCountryContactPointAddressCountryIdkLIXobQavtWuMWT</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingCountryContactPointAddressCountryNameRyVsJiOzdyURbSC</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingLatitudeContactPointAddressGeoLatituderuhmtSyJFXKArvc</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingLongitudeContactPointAddressGeoLongitudevqqBISQTHyQJMfl</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingPostalCodeContactPointAddressPostalCodeIdhmfLCevRoLXYLdL</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingStateContactPointAddressStateProvinceIdGdjagdLjZNnZBNi</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingStateContactPointAddressStateProvinceNameSrffhbnpCYMzfjY</members>
-        <members>Datakit_CompletoSalesforce_HomeBillingStreetContactPointAddressAddressLine1XWXqQkXfbwOteui</members>
         <members>Datakit_CompletoSalesforce_HomeBirthdateIndividualBirthDatefrCiQklURAweWtB</members>
         <members>Datakit_CompletoSalesforce_HomeBooked_Slots_cSession_c_HomeBooked_Slots_cVyAhEaSzyOkjAnZ</members>
         <members>Datakit_CompletoSalesforce_HomeBusinessHoursIdCase_HomeBusinessHoursIdvgqOsPmkLqFXrfE</members>
@@ -439,11 +414,9 @@
         <members>Datakit_CompletoSalesforce_HomeCreatedByIdGuest_Review_c_HomeCreatedByIdBbRIHeSvIaemhhi</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedByIdSession_c_HomeCreatedByIduaSdTcuAUTbojtf</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateAccountContactCreatedDateITMXzPVGOwUzkvB</members>
-        <members>Datakit_CompletoSalesforce_HomeCreatedDateAccountCreatedDateCOUWpXZhwKVljLJ</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateBooking_c_HomeCreatedDaterpTFvKoKGFjLIRi</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateCase_HomeCreatedDatedETmUgSxANvEJxe</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateContactPointAddressCreatedDateCKzCBhZBfMPVgaP</members>
-        <members>Datakit_CompletoSalesforce_HomeCreatedDateContactPointAddressCreatedDateQECAaRSgOpywTSK</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateContactPointEmailCreatedDatefdnGmEVnTsvtaWA</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateContactPointPhoneCreatedDateHrsfETBCYojvLwV</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateExperience_c_HomeCreatedDateJybNEuMFblqsOiu</members>
@@ -451,38 +424,26 @@
         <members>Datakit_CompletoSalesforce_HomeCreatedDateIndividualCreatedDateEKYpYnZVXCZRRPh</members>
         <members>Datakit_CompletoSalesforce_HomeCreatedDateSession_c_HomeCreatedDatemKTnQClwsWuZFhh</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceAccountContactDataSourceIdLesoJPdkFpyrdRE</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceAccountDataSourceIdNiAcjNQnYjaMjtX</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceBooking_c_HomeDataSourceXDUKhHlRGLqvHCP</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceCase_HomeDataSourceEQbrvgQYSCyoFmv</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceContactPointAddressDataSourceIdmdQziHRwjmXMMbU</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceContactPointAddressDataSourceIdsfwiGNkDbyBeHbX</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceContactPointEmailDataSourceIdTnMSkhTiGSrpCfS</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceContactPointEmailDataSourceIdiFgAyOBfinBplXc</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceContactPointPhoneDataSourceIdUysRLEXhAApwadl</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceExperience_c_HomeDataSourcecVmGUduFXPjXRaU</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceFinancialCustomerDataSourceIdAeowLAQrdSZQjTD</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceGuest_Review_c_HomeDataSourcebhCqgHaNLqrfuei</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceIndividualDataSourceIdfzlcYbnMylZnzJI</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceIndividualDataSourceIdkkOlzeyPMGlseXA</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectAccountContactDataSourceObjectIdoJuUDxkfDNRTxxA</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceObjectAccountDataSourceObjectIdTBGbCPuAxuPtlcE</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectBooking_c_HomeDataSourceObjectVcfoxkplccbdvWn</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectCase_HomeDataSourceObjectILzBSMobTFNcquw</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceObjectContactPointAddressDataSourceObjectIdFiSmMewXiqqdHcb</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectContactPointAddressDataSourceObjectIdRkMKOHEKrXcFUJQ</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceObjectContactPointEmailDataSourceObjectIdBoxWquFCJQnlvkt</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectContactPointEmailDataSourceObjectIdIYqqtVQvxoHpAyq</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectContactPointPhoneDataSourceObjectIdgWtWfJumYPXwQMx</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectExperience_c_HomeDataSourceObjectDQHEpcCQHmWPzGs</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceObjectFinancialCustomerDataSourceObjectIdMHebOKGSlvaAveo</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectGuest_Review_c_HomeDataSourceObjectmFyyTUfIdPLvCjX</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceObjectIndividualDataSourceObjectIdkxjsvfkgKekdTPB</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectIndividualDataSourceObjectIdoCqxLcCPbeOuasN</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourceObjectPartyDataSourceObjectIdIWluYIlrtuOFhZh</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectPartyDataSourceObjectIdzSDZVvWfmboOycV</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectSession_c_HomeDataSourceObjectrsQeudTfrYNjqTM</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceObjectUserDataSourceObjectIdbFAcxixmiqanwao</members>
-        <members>Datakit_CompletoSalesforce_HomeDataSourcePartyDataSourceIdOWTRxtYvslZmKZd</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourcePartyDataSourceIdtHHsdoLqehPnXwQ</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceSession_c_HomeDataSourceEVaZWnmfburFKiD</members>
         <members>Datakit_CompletoSalesforce_HomeDataSourceUserDataSourceIdGjXmuhKMdxyOxRl</members>
@@ -491,7 +452,6 @@
         <members>Datakit_CompletoSalesforce_HomeDefault_Start_Time_cExperience_c_HomeDefault_Start_Time_cBDqcCnDxaQDqzoy</members>
         <members>Datakit_CompletoSalesforce_HomeDepartmentAccountContactDepartmentNameefdxNannxpNjQVw</members>
         <members>Datakit_CompletoSalesforce_HomeDepartmentUserDepartmentSQaAGIakERODOpf</members>
-        <members>Datakit_CompletoSalesforce_HomeDescriptionAccountDescriptionAfBYTLLboPbfCQk</members>
         <members>Datakit_CompletoSalesforce_HomeDescriptionCase_HomeDescriptiongEcfbavAGlbfcEq</members>
         <members>Datakit_CompletoSalesforce_HomeDescription_cExperience_c_HomeDescription_cwCRteWmhHOENLMS</members>
         <members>Datakit_CompletoSalesforce_HomeDuration_Hours_cExperience_c_HomeDuration_Hours_chfQNpPNFxHMohpB</members>
@@ -500,7 +460,6 @@
         <members>Datakit_CompletoSalesforce_HomeEmailBouncedReasonContactPointEmailEmailLatestBounceReasonTextMeZKhcoRmsSAbdW</members>
         <members>Datakit_CompletoSalesforce_HomeEmailContactPointEmailEmailAddressgNjseJgNVAkQqAk</members>
         <members>Datakit_CompletoSalesforce_HomeEmailUserEmailnJchwtExLPprGau</members>
-        <members>Datakit_CompletoSalesforce_HomeEmail_cContactPointEmailEmailAddresslZiMbjvCMzrLRDt</members>
         <members>Datakit_CompletoSalesforce_HomeEnd_Time_cBooking_c_HomeEnd_Time_cRAfAtjoCprFHRTF</members>
         <members>Datakit_CompletoSalesforce_HomeEnd_Time_cSession_c_HomeEnd_Time_cxXXevcEzAJdZXKG</members>
         <members>Datakit_CompletoSalesforce_HomeEngineeringReqNumber_cCase_HomeEngineeringReqNumber_czaBecwUtQPUYrpo</members>
@@ -512,20 +471,14 @@
         <members>Datakit_CompletoSalesforce_HomeExperience_cSession_c_HomeExperience_cDxxjhlVokKxWkQU</members>
         <members>Datakit_CompletoSalesforce_HomeExternal_Id_cIndividualExternalRecordIdZwAcrgLqXzCjhza</members>
         <members>Datakit_CompletoSalesforce_HomeFaxAccountContactFaxPhoneIdxbSzrtcBmbBnDHG</members>
-        <members>Datakit_CompletoSalesforce_HomeFaxAccountFaxPhoneIdczUHYQuMvShtgzS</members>
         <members>Datakit_CompletoSalesforce_HomeFirstNameAccountContactFirstNameAarnpxwkPxNJBmr</members>
         <members>Datakit_CompletoSalesforce_HomeFirstNameIndividualFirstNamecoajCovoOeCrtpW</members>
         <members>Datakit_CompletoSalesforce_HomeFirstNameUserFirstNameJwucRGOftPIHZFg</members>
-        <members>Datakit_CompletoSalesforce_HomeFirst_Name_cIndividualFirstNamesKoNxxdwpUzXzmG</members>
         <members>Datakit_CompletoSalesforce_HomeForecastEnabledUserForecastEnablednmpdPOuwQABZVAL</members>
         <members>Datakit_CompletoSalesforce_HomeFullPhotoUrlUserFullPhotoUrlMpDBpDZMfgXhhGo</members>
         <members>Datakit_CompletoSalesforce_HomeGenderIdentityAccountContactGenderFxpUivLxNtwICBE</members>
         <members>Datakit_CompletoSalesforce_HomeGenderIdentityIndividualGenderIdentitySdurOIkgjxXMdmT</members>
-        <members>Datakit_CompletoSalesforce_HomeGuest_ID_cContactPointEmailIdvvFBQmyUqvwVFza</members>
-        <members>Datakit_CompletoSalesforce_HomeGuest_ID_cContactPointEmailPartyIdIgILcSeNdEsLIqZ</members>
-        <members>Datakit_CompletoSalesforce_HomeGuest_ID_cIndividualIdWbHSmksLAvgVfdD</members>
         <members>Datakit_CompletoSalesforce_HomeHomePhoneContactPointPhoneFormattedE164PhoneNumberMlndicdPSksQqKi</members>
-        <members>Datakit_CompletoSalesforce_HomeIdAccountBillContactAddressIdYImbPLhlZrobFUK</members>
         <members>Datakit_CompletoSalesforce_HomeIdAccountContactBusinessPhoneIdQweiVWtrfvsLCtF</members>
         <members>Datakit_CompletoSalesforce_HomeIdAccountContactContactEmailIdfDUKKeRjJyFcRAW</members>
         <members>Datakit_CompletoSalesforce_HomeIdAccountContactHomePhoneIdrQuDMoMcPBadjKl</members>
@@ -533,29 +486,21 @@
         <members>Datakit_CompletoSalesforce_HomeIdAccountContactIndividualIdziqvpEKcfIXrqtJ</members>
         <members>Datakit_CompletoSalesforce_HomeIdAccountContactMailingAddressIdQoekjllpakLPOHm</members>
         <members>Datakit_CompletoSalesforce_HomeIdAccountContactMobilePhoneIdbqXryQGyelBJeLG</members>
-        <members>Datakit_CompletoSalesforce_HomeIdAccountIdNOcAxAJwMBuzeWS</members>
-        <members>Datakit_CompletoSalesforce_HomeIdAccountSalesPhoneIdupZZeIVAtKdDcGz</members>
         <members>Datakit_CompletoSalesforce_HomeIdBooking_c_HomeIdJqHEoUCOLWQwGXa</members>
         <members>Datakit_CompletoSalesforce_HomeIdCase_HomeIdeNgHmsGijIuoKod</members>
-        <members>Datakit_CompletoSalesforce_HomeIdContactPointAddressIdhlxoLHXmWVOFiNa</members>
         <members>Datakit_CompletoSalesforce_HomeIdContactPointAddressIdlfbjMieTUveDIEo</members>
         <members>Datakit_CompletoSalesforce_HomeIdContactPointAddressPartyIdjHLYpboKHyEpNCn</members>
-        <members>Datakit_CompletoSalesforce_HomeIdContactPointAddressPartyIdnLDACGkZMunYkBQ</members>
         <members>Datakit_CompletoSalesforce_HomeIdContactPointEmailIdLcOEQhJaXkwXkOl</members>
         <members>Datakit_CompletoSalesforce_HomeIdContactPointEmailPartyIdGUGENkjetNnDYXQ</members>
         <members>Datakit_CompletoSalesforce_HomeIdContactPointPhoneIdbvazSYcxcZzkcPs</members>
         <members>Datakit_CompletoSalesforce_HomeIdContactPointPhonePartyIdMzJDewZhbXTkcEy</members>
         <members>Datakit_CompletoSalesforce_HomeIdExperience_c_HomeIdGYuUdGdKWXcbDQD</members>
-        <members>Datakit_CompletoSalesforce_HomeIdFinancialCustomerAccountIdpRjixMSLVGsmQCs</members>
-        <members>Datakit_CompletoSalesforce_HomeIdFinancialCustomerIdTvFJAoTNJHLkOpy</members>
         <members>Datakit_CompletoSalesforce_HomeIdGuest_Review_c_HomeIdVKIFYWwrndqOiCO</members>
         <members>Datakit_CompletoSalesforce_HomeIdIndividualIdOZFqneaxAFxFYcB</members>
-        <members>Datakit_CompletoSalesforce_HomeIdPartyIdVljjJBMeItmfMcd</members>
         <members>Datakit_CompletoSalesforce_HomeIdPartyIdhcrctdrsvNdWinG</members>
         <members>Datakit_CompletoSalesforce_HomeIdPartyIndividualIdlxZvVxYORLgpCUR</members>
         <members>Datakit_CompletoSalesforce_HomeIdSession_c_HomeIdovSArBVTnidJMfX</members>
         <members>Datakit_CompletoSalesforce_HomeIdUserIdCHtfnsRTtxiiVCx</members>
-        <members>Datakit_CompletoSalesforce_HomeIndustryAccountPrimaryIndustryCWMoczzRiRuEark</members>
         <members>Datakit_CompletoSalesforce_HomeIsActiveUserIsActiveGvFtcPtHvrvHKrV</members>
         <members>Datakit_CompletoSalesforce_HomeIsClosedCase_HomeIsClosedTdMNmZfztfAMIgN</members>
         <members>Datakit_CompletoSalesforce_HomeIsClosedOnCreateCase_HomeIsClosedOnCreateSumWLmqLJZqHvFT</members>
@@ -570,17 +515,14 @@
         <members>Datakit_CompletoSalesforce_HomeIs_Canceled_cSession_c_HomeIs_Canceled_chXHgCxqDTZPUDjb</members>
         <members>Datakit_CompletoSalesforce_HomeLanguageCase_HomeLanguageRAieUCyFXruxoGg</members>
         <members>Datakit_CompletoSalesforce_HomeLastActivityDateAccountContactLastActivityDateeWsZpzHfYOvqmJO</members>
-        <members>Datakit_CompletoSalesforce_HomeLastActivityDateAccountLastActivityDateUhudpjmzthzvCmR</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedByIdBooking_c_HomeLastModifiedByIdEhihCGIEmsKQKAP</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedByIdCase_HomeLastModifiedByIdeNuNCeXOYyyUswr</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedByIdExperience_c_HomeLastModifiedByIdyaIrBXqlnfhhbeT</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedByIdGuest_Review_c_HomeLastModifiedByIdcrXHkfFJLAHLfzc</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedByIdSession_c_HomeLastModifiedByIdkecDbgplgftczQp</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedDateAccountContactLastModifiedDateYgCiMKMDFVWbVmc</members>
-        <members>Datakit_CompletoSalesforce_HomeLastModifiedDateAccountLastModifiedDateNbrTMyoOlUOBmTJ</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedDateBooking_c_HomeLastModifiedDateNuewsNIKjBPcfBR</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedDateCase_HomeLastModifiedDatelBDTZZNjWXszVLr</members>
-        <members>Datakit_CompletoSalesforce_HomeLastModifiedDateContactPointAddressLastModifiedDatecoNeLIKclvbxQkY</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedDateContactPointAddressLastModifiedDatejbtLPsMFegFyPqp</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedDateContactPointEmailLastModifiedDateiLrwDQiHaVhsbJh</members>
         <members>Datakit_CompletoSalesforce_HomeLastModifiedDateContactPointPhoneLastModifiedDatejHdXJJArIgEXhvy</members>
@@ -619,30 +561,23 @@
         <members>Datakit_CompletoSalesforce_HomeMilestoneStatusCase_HomeMilestoneStatusMJKTgpMRWBYlWEv</members>
         <members>Datakit_CompletoSalesforce_HomeMobilePhoneContactPointPhoneForPersonalUsesqAQDjKNkNXjHsV</members>
         <members>Datakit_CompletoSalesforce_HomeNameAccountContactPersonNameOYSUVbVZNoaBdVo</members>
-        <members>Datakit_CompletoSalesforce_HomeNameAccountNamefdMoXwusDUhnHHS</members>
         <members>Datakit_CompletoSalesforce_HomeNameBooking_c_HomeNamesyNBokcAYPcBMgs</members>
         <members>Datakit_CompletoSalesforce_HomeNameExperience_c_HomeNameNdzsXFOOxqgYxpM</members>
         <members>Datakit_CompletoSalesforce_HomeNameGuest_Review_c_HomeNamejhFMDOeMyhqElns</members>
         <members>Datakit_CompletoSalesforce_HomeNameIndividualPersonNameGcnQKrdhLSZvUYL</members>
         <members>Datakit_CompletoSalesforce_HomeNameSession_c_HomeNameEGqkabvIKutrOqU</members>
         <members>Datakit_CompletoSalesforce_HomeNameUserFullNamemonfiIVqPWYwiCE</members>
-        <members>Datakit_CompletoSalesforce_HomeNumberOfEmployeesAccountEmployeeCountRebjDyDPXpdYwkQ</members>
         <members>Datakit_CompletoSalesforce_HomeNumber_of_Guests_cBooking_c_HomeNumber_of_Guests_cCADNJrESokGAehP</members>
         <members>Datakit_CompletoSalesforce_HomeOriginCase_HomeOriginWvcDMWCqrOVcQOs</members>
         <members>Datakit_CompletoSalesforce_HomeOwnerIdAccountContactOwnerIdSstacLjdJckJBfI</members>
-        <members>Datakit_CompletoSalesforce_HomeOwnerIdAccountOwnerIdvcDyNBATErUpLhJ</members>
         <members>Datakit_CompletoSalesforce_HomeOwnerIdCase_HomeOwnerIdMJYdFNmwMrPfRvm</members>
         <members>Datakit_CompletoSalesforce_HomeOwnerIdExperience_c_HomeOwnerIdQPAopNkPsxWkXFb</members>
         <members>Datakit_CompletoSalesforce_HomeOwnerIdSession_c_HomeOwnerIdkNHBJZBxrXpSzql</members>
-        <members>Datakit_CompletoSalesforce_HomeOwnershipAccountAccountOwnershipTypeqhFASiIcaGbNeZT</members>
-        <members>Datakit_CompletoSalesforce_HomeParentIdAccountParentAccountIdPFeRcheygUCQnTw</members>
         <members>Datakit_CompletoSalesforce_HomeParentIdCase_HomeParentIdknXbGgKbipckAtX</members>
         <members>Datakit_CompletoSalesforce_HomePercentage_Booked_cSession_c_HomePercentage_Booked_cRHKLCsAmmjuVNJd</members>
-        <members>Datakit_CompletoSalesforce_HomePhoneAccountShippingPhoneidEVQFSqdiGTdgkjC</members>
         <members>Datakit_CompletoSalesforce_HomePhoneContactPointPhoneForBusinessUseXajDDnozOpswQGs</members>
         <members>Datakit_CompletoSalesforce_HomePhoneContactPointPhoneTelephoneNumbersUSRqhjJacmHnXu</members>
         <members>Datakit_CompletoSalesforce_HomePhoneUserPhoneIdlptafupQKoPILNZ</members>
-        <members>Datakit_CompletoSalesforce_HomePhotoUrlAccountProfileImageUrlIDClgytssmQQHfd</members>
         <members>Datakit_CompletoSalesforce_HomePicture_URL_cExperience_c_HomePicture_URL_cbQuHimwmxImeHEd</members>
         <members>Datakit_CompletoSalesforce_HomePotentialLiability_cCase_HomePotentialLiability_cbYijVIySYrvdokq</members>
         <members>Datakit_CompletoSalesforce_HomePreferred_Name_cIndividualPreferredNameWskEDZxSrMNECwb</members>
@@ -651,8 +586,6 @@
         <members>Datakit_CompletoSalesforce_HomeProductIdCase_HomeProductIdPtceNAVBZwklBwA</members>
         <members>Datakit_CompletoSalesforce_HomeProduct_cCase_HomeProduct_cwdLkhBBnUbmyfWz</members>
         <members>Datakit_CompletoSalesforce_HomePronounsIndividualPronounVNfQoJpJlyGxFag</members>
-        <members>Datakit_CompletoSalesforce_HomeRatingAccountAccountRatingTypeoiexbObFBWYjBuW</members>
-        <members>Datakit_CompletoSalesforce_HomeRatingFinancialCustomerCustomerRatingrtrbCyAWhuepMwm</members>
         <members>Datakit_CompletoSalesforce_HomeRating_Value_cGuest_Review_c_HomeRating_Value_cUxyLYkxpbzBzJrv</members>
         <members>Datakit_CompletoSalesforce_HomeRating_cExperience_c_HomeRating_cJsRHQuUHWgvQQqZ</members>
         <members>Datakit_CompletoSalesforce_HomeRating_cGuest_Review_c_HomeRating_cOhilAxQxiERGdFh</members>
@@ -680,24 +613,17 @@
         <members>Datakit_CompletoSalesforce_HomeSuppliedEmailCase_HomeSuppliedEmailWUzqRkaJlqkGRem</members>
         <members>Datakit_CompletoSalesforce_HomeSuppliedNameCase_HomeSuppliedNameQBJFAFHJHHhIWQs</members>
         <members>Datakit_CompletoSalesforce_HomeSuppliedPhoneCase_HomeSuppliedPhonekZGUKSQjybOejiu</members>
-        <members>Datakit_CompletoSalesforce_HomeSurname_cIndividualLastNamemsOOimINBIiZxLm</members>
         <members>Datakit_CompletoSalesforce_HomeTitleAccountContactTitleMAGYDSMumJiDJNi</members>
         <members>Datakit_CompletoSalesforce_HomeTitleIndividualTitleNamebnXFdhyrsHQaALf</members>
         <members>Datakit_CompletoSalesforce_HomeTitleUserTitleiCOUqBtOXCxeERW</members>
         <members>Datakit_CompletoSalesforce_HomeTotal_Guest_Reviews_cExperience_c_HomeTotal_Guest_Reviews_cQiIcsRaoPRbVAny</members>
         <members>Datakit_CompletoSalesforce_HomeTotal_Price_cBooking_c_HomeTotal_Price_coaqXThwpNkBcIXE</members>
-        <members>Datakit_CompletoSalesforce_HomeTypeAccountAccountBusinessTypedwCavDDayLvHPWO</members>
-        <members>Datakit_CompletoSalesforce_HomeTypeAccountAccountTypeIdNpcODXmydhaAJkp</members>
-        <members>Datakit_CompletoSalesforce_HomeTypeAccountAccountTypedWVuHqatPInUWGb</members>
         <members>Datakit_CompletoSalesforce_HomeTypeCase_HomeTypeNLLkCmWUwnalqoA</members>
-        <members>Datakit_CompletoSalesforce_HomeTypePartyPartyTypeHtxvaCjJKmgFcYD</members>
         <members>Datakit_CompletoSalesforce_HomeType_cExperience_c_HomeType_cSWaVhqTBEVOpUxT</members>
         <members>Datakit_CompletoSalesforce_HomeUserRoleIdUserRoleIdQszNnoprqDJpvXq</members>
         <members>Datakit_CompletoSalesforce_HomeUserRoleIdUserUserGroupIdXVnHIDpbFLxlBOY</members>
         <members>Datakit_CompletoSalesforce_HomeUserTypeUserUserTypexsBLPKqeYSzhrQV</members>
         <members>Datakit_CompletoSalesforce_HomeUsernameUserUsernamefvKfDRrRKRBlJOB</members>
-        <members>Datakit_CompletoSalesforce_HomeWebsiteAccountAccountWebsiteURLbsnaTivMskklYkX</members>
-        <members>Datakit_CompletoSalesforce_HomeWebsiteAccountWebsiteAddrRqHwEQYcHUOcPze</members>
         <members>Datakit_CompletoSalesforce_Homecdp_sys_record_currencyBooking_c_Homecdp_sys_record_currencyQAbvSnRdaSqbiWV</members>
         <members>Datakit_CompletoSalesforce_Homecdp_sys_record_currencyExperience_c_Homecdp_sys_record_currencyNVHkJKriFpboDsx</members>
         <members>Datakit_Completobig_query_demoDataSourceObjectReservationDataSourceObjectAKqfbNMNNywdySv</members>
@@ -723,12 +649,10 @@
         <name>DataSrcDataModelFieldMap</name>
     </types>
     <types>
-        <members>Account_Home_1793926394703</members>
         <members>Booking_c_Home_1793926390341</members>
         <members>Case_Home_1793926387183</members>
         <members>Contact_Home_1793926399834</members>
         <members>Experience_c_Home_1793926388835</members>
-        <members>External_Guest_c_Home_1794022727522</members>
         <members>Guest_Review_c_Home_1793926391704</members>
         <members>Guests_1793960411877</members>
         <members>Session_c_Home_1793926383293</members>

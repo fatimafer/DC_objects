@@ -261,10 +261,11 @@
         <usageTag>NONE</usageTag>
         <versionNumber>1.0</versionNumber>
     </dataSourceFields>
+    <externalObjectName>External_Guest__c</externalObjectName>
     <externalRecordIdentifier>External_Guest__c</externalRecordIdentifier>
     <masterLabel>External_Guest_c_Home</masterLabel>
     <objectType>Object</objectType>
     <sourceObject>External_Guest_c_Home__dll</sourceObject>
     <storageType>LOCAL</storageType>
-    <templateVersion>1</templateVersion>
+    <templateVersion>2</templateVersion>
 </DataSourceObject>

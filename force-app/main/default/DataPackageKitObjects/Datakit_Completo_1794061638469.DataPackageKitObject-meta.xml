@@ -2,6 +2,6 @@
 <DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <masterLabel>Datakit_Completo</masterLabel>
     <parentDataPackageKitDefinitionName>Datakit_Completo</parentDataPackageKitDefinitionName>
-    <referenceObjectName>Yearly_CLV</referenceObjectName>
-    <referenceObjectType>DataCalcInsightTemplate</referenceObjectType>
+    <referenceObjectName>Individual_ccid6</referenceObjectName>
+    <referenceObjectType>DataKitObjectTemplate</referenceObjectType>
 </DataPackageKitObject>

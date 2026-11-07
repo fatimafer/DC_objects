@@ -15,5 +15,5 @@
     <refreshMode>INCREMENTAL</refreshMode>
     <sourceObjectName>reservations_deluxe</sourceObjectName>
     <streamType>DIRECT_ACCESS_ACCELERATED</streamType>
-    <templateVersion>3</templateVersion>
+    <templateVersion>4</templateVersion>
 </DataStreamTemplate>
