@@ -11,8 +11,16 @@ https://github.com/fatimafer/DC_connections.git
 
 ## Instalar el Datakit
 
-Abrimos en el navegador el Playground de Data 360 que hemos creado en el paso anterior.
-Abrimos un terminal que tenga Salesforce CLI instalado, preferentemente en VSCODE
+Abrimos en el navegador el Playground de Data 360 que hemos creado en las instrucciones del repositorio anterior.
+Abrimos un terminal que tenga Salesforce CLI instalado, preferentemente en VSCODE.
+
+Clonamos el respositorio y nos situamos en la carpeta donde lo hemos clonado
+```
+https://github.com/fatimafer/DC_objects.git
+```
+```
+cd DC_objects
+```
 
 
 Nos conectamos al playground creado en el paso anterior.
