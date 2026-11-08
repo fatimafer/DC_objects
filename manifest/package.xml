@@ -237,6 +237,7 @@
         <members>Case_Home</members>
         <members>Contact_Home</members>
         <members>Experience_c_Home</members>
+        <members>Experiences_to_discover</members>
         <members>External_Guest_c_Home</members>
         <members>External_Reservation_c_Home</members>
         <members>Guest_Review_c_Home</members>
@@ -247,6 +248,7 @@
         <members>Semantic_layer3</members>
         <members>Session_c_Home</members>
         <members>User_Home</members>
+        <members>Vip_Next_season</members>
         <members>big_query_demo</members>
         <members>gcloud_storage</members>
         <members>reservations_deluxe</members>
@@ -317,6 +319,8 @@
         <members>Datakit_Completo_1794155488094</members>
         <members>Datakit_Completo_1794155488436</members>
         <members>Datakit_Completo_1794155639571</members>
+        <members>Datakit_Completo_1794172190534</members>
+        <members>Datakit_Completo_1794172191530</members>
         <name>DataPackageKitObject</name>
     </types>
     <types>
