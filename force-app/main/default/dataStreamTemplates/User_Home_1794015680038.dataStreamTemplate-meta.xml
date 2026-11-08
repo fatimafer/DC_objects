@@ -5,9 +5,9 @@
     <fullRefreshIntervalDays>NONE</fullRefreshIntervalDays>
     <masterLabel>User_Home</masterLabel>
     <objectCategory>Salesforce_SFDCReferenceModel_0_93.Profile</objectCategory>
-    <refreshFrequency>BATCH</refreshFrequency>
+    <refreshFrequency>NONE</refreshFrequency>
     <refreshMode>UPSERT</refreshMode>
     <sourceObjectName>User_Home</sourceObjectName>
     <streamType>INGEST</streamType>
-    <templateVersion>3</templateVersion>
+    <templateVersion>4</templateVersion>
 </DataStreamTemplate>

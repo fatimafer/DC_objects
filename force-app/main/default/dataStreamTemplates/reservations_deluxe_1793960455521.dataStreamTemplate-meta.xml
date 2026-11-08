@@ -10,10 +10,9 @@
     <masterLabel>reservations_deluxe</masterLabel>
     <objectCategory>Salesforce_SFDCReferenceModel_0_93.Engagement</objectCategory>
     <refreshDayOfWeek>0</refreshDayOfWeek>
-    <refreshFrequency>WEEKLY</refreshFrequency>
-    <refreshHours>6</refreshHours>
+    <refreshFrequency>NONE</refreshFrequency>
     <refreshMode>INCREMENTAL</refreshMode>
     <sourceObjectName>reservations_deluxe</sourceObjectName>
     <streamType>DIRECT_ACCESS_ACCELERATED</streamType>
-    <templateVersion>4</templateVersion>
+    <templateVersion>5</templateVersion>
 </DataStreamTemplate>

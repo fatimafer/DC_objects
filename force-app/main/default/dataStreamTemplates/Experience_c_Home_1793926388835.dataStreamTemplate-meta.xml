@@ -5,9 +5,9 @@
     <fullRefreshIntervalDays>NONE</fullRefreshIntervalDays>
     <masterLabel>Experience__c_Home</masterLabel>
     <objectCategory>Salesforce_SFDCReferenceModel_0_93.Related</objectCategory>
-    <refreshFrequency>BATCH</refreshFrequency>
+    <refreshFrequency>NONE</refreshFrequency>
     <refreshMode>UPSERT</refreshMode>
     <sourceObjectName>Experience_c_Home</sourceObjectName>
     <streamType>INGEST</streamType>
-    <templateVersion>5</templateVersion>
+    <templateVersion>6</templateVersion>
 </DataStreamTemplate>

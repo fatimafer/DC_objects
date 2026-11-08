@@ -136,6 +136,27 @@
         <members>Guest_Review_c_Home__dlm.rel_1793731739573_end__c</members>
         <members>Guest_Review_c_Home__dlm.rel_1793731739967_end__c</members>
         <members>Guest_Review_c_Home__dlm.rel_1793868216156_end__c</members>
+        <members>Reservation__dlm.Booking_Channel__c</members>
+        <members>Reservation__dlm.Check_in_Date__c</members>
+        <members>Reservation__dlm.Check_out_Date__c</members>
+        <members>Reservation__dlm.Contact_ID__c</members>
+        <members>Reservation__dlm.Creation_Date__c</members>
+        <members>Reservation__dlm.DataSourceObject__c</members>
+        <members>Reservation__dlm.DataSource__c</members>
+        <members>Reservation__dlm.InternalOrganization__c</members>
+        <members>Reservation__dlm.Last_Modified_Date__c</members>
+        <members>Reservation__dlm.Number_of_Adults__c</members>
+        <members>Reservation__dlm.Number_of_Children__c</members>
+        <members>Reservation__dlm.Payment_Status__c</members>
+        <members>Reservation__dlm.Rate_Plan__c</members>
+        <members>Reservation__dlm.Reservation_ID__c</members>
+        <members>Reservation__dlm.Reservation_Status__c</members>
+        <members>Reservation__dlm.Room_Number__c</members>
+        <members>Reservation__dlm.Room_Type__c</members>
+        <members>Reservation__dlm.Special_Requests__c</members>
+        <members>Reservation__dlm.Taxes_and_Fees__c</members>
+        <members>Reservation__dlm.Total_Price__c</members>
+        <members>Reservation__dlm.rel_1793730881377_end__c</members>
         <members>Session_c_Home__dlm.Available_Slots_c__c</members>
         <members>Session_c_Home__dlm.Booked_Slots_c__c</members>
         <members>Session_c_Home__dlm.Capacity_c__c</members>
@@ -174,6 +195,11 @@
         <members>Reservation__dlm</members>
         <members>Session_c_Home__dlm</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TotalCLV1</members>
+        <members>YearCLV1</members>
+        <name>DataCalcInsightTemplate</name>
     </types>
     <types>
         <members>AWS_Redshift</members>
@@ -218,6 +244,7 @@
         <members>Individual_ccid6</members>
         <members>Sales_Representative</members>
         <members>SalesforceDotCom_Home</members>
+        <members>Semantic_layer3</members>
         <members>Session_c_Home</members>
         <members>User_Home</members>
         <members>big_query_demo</members>
@@ -286,6 +313,10 @@
         <members>Datakit_Completo_1794022728840</members>
         <members>Datakit_Completo_1794061638469</members>
         <members>Datakit_Completo_1794061652030</members>
+        <members>Datakit_Completo_1794143100551</members>
+        <members>Datakit_Completo_1794143100756</members>
+        <members>Datakit_Completo_1794143122699</members>
+        <members>Datakit_Completo_1794143148418</members>
         <name>DataPackageKitObject</name>
     </types>
     <types>

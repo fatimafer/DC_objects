@@ -82,6 +82,24 @@ sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
     ![alt text](images/sucecced.png)
 
 
+### Lanzar Calculated Insight
+
+* Vamos a la pestaña de Calculated Insight
+
+    ![alt text](images/CI.png)
+
+
+* En la flecha de la parte derecha hacemos click en Run now
+
+    ![alt text](images/CI.png)
+
+
+* Esperamos a que Last Run Status cambie a Success
+
+    ![alt text](images/CISucess.png)
+
+
+
 
 ## Si vemos errores, existe un bug Data Governance, policy All Data Access Ruleset
 

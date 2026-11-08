@@ -48,5 +48,5 @@
     <refreshMode>UPSERT</refreshMode>
     <sourceObjectName>reservations_standard</sourceObjectName>
     <streamType>INGEST</streamType>
-    <templateVersion>4</templateVersion>
+    <templateVersion>5</templateVersion>
 </DataStreamTemplate>
