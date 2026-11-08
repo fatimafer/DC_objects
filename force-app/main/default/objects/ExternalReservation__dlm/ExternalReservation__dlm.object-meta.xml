@@ -5,7 +5,7 @@
         <creationType>Custom</creationType>
         <dataModelTaxonomy>Salesforce_SFDCReferenceModel_0_93</dataModelTaxonomy>
         <dataSpaceName>default</dataSpaceName>
-        <isEnabled>true</isEnabled>
+        <isEnabled>false</isEnabled>
         <isSegmentable>false</isSegmentable>
         <isSqlDmo>false</isSqlDmo>
         <isUsedForMetrics>false</isUsedForMetrics>
