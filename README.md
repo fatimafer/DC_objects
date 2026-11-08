@@ -47,7 +47,8 @@ sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
     ![alt text](images/Data_streams.png)
 
 
-* Lanzamos los Datastreams reservations_suite, reservations_deluxe, reservations_standard y guest. Para ello hacemos click en la flecha y en refresh now
+* Hacemos click en el botón con flecha de la parte derecha en los Data Streams que tengan el valor Active en la fila Data Stream Status y los valores None/Failed en la fila Last Run Status.
+    Por ejemplo, en la imagen se lannzarían solo lo Session__c_Home y Experience__c_Home
 
     ![alt text](images/Refresh_now.png)
 
