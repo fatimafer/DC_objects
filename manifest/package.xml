@@ -323,14 +323,18 @@
         <members>Datakit_Completo_1794155472627</members>
         <members>Datakit_Completo_1794155488094</members>
         <members>Datakit_Completo_1794155488436</members>
+        <members>Datakit_Completo_1794155639571</members>
         <members>Datakit_Completo_1794172190534</members>
         <members>Datakit_Completo_1794172191530</members>
         <members>Datakit_Completo_1794183584131</members>
         <members>Datakit_Completo_1794183635862</members>
         <members>Datakit_Completo_1794183993522</members>
         <members>Datakit_Completo_1794184064029</members>
+<<<<<<< HEAD
         <members>Datakit_Completo_1794246222025</members>
         <members>Datakit_Completo_1794253978848</members>
+=======
+>>>>>>> parent of 4fe2644 (Cambios modelo semantico)
         <name>DataPackageKitObject</name>
     </types>
     <types>
