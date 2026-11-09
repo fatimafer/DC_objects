@@ -9,6 +9,7 @@ Es necesario instalar y seguir los pasos de este otro datakit, el cual contiene 
 https://github.com/fatimafer/DC_connections.git  
 
 
+
 ## Instalar el Datakit
 
 Abrimos en el navegador el Playground de Data 360 que hemos creado en las instrucciones del repositorio anterior.
@@ -47,9 +48,51 @@ Y si todo ha ido bien, desplegamos definitivamente
 sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 ```
 
+
 ## Pasos posteriores
 
-### Lanzar los Datastreams de AWS y GCLOUD
+
+### Crear usuarios
+
+* Pulsamos el engranaje de la parte superior derecha y seleccionamos Setup.
+
+    ![alt text](images/Setup.png)
+
+
+* En el buscador de la barra lateral izquierda buscamos Login Access Policies.
+    Activamos la opción Administrators Can Log in as Any User.
+
+    ![alt text](images/Loginpolices.png)
+
+
+* En el buscador de la barra lateral izquierda buscamos Users y hacemos click en Users.
+    Pulsamos el botón New User.
+
+    ![alt text](images/users.png)
+
+
+* Creamos dos usuarios. 
+    1. Un usuario con el correo electrónico laura.smith@women-at-work.org. Este usuario pertenecerá al departamento de internacional y su licencia será Salesforce Platform y su perfil será Standar Platform User.
+    ![alt text](images/Laura.png)
+
+    2. Un usuario con el correo electrónico lana.evans@women-at-work.org. Este usuario pertenecerá al departamento de nacional y su licencia será Salesforce Platform y su perfil será Standar Platform User.
+    ![alt text](images/Lana.png)    
+
+
+* En la barra lateral izquierda volvemos al menú Users.
+    Pulsamos el los dos usuarios creados.
+
+    ![alt text](images/createdusers.png)
+
+
+* Hacemos Scroll abajo y asignamos las siguientes licencias y permisos:
+    Permission Set License Assignments: Data Cloud
+    Permission Set Assignments: Data Cloud User
+
+    ![alt text](images/Permissions.png)
+
+
+### Lanzar los Datastreams
 
 * Vamos a la pestaña de Data Streams.
 
@@ -68,6 +111,25 @@ sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 * Esperamos a que Last Run Status cambie a Success.
 
     ![alt text](images/Success.png)
+
+
+### Lanzar Data Transform
+
+* Hacemos click en el botón Data Transforms.
+
+    ![alt text](images/Transforms.png)
+
+* Hacemos click en el botón con la flecha en la parte derecha y seleccionamos Run Now.
+
+    ![alt text](images/Runtransform.png)
+
+* Seleccionamos la opción Run with all Data y hacemos click en el botón Run.
+
+    ![alt text](images/Alldata.png)    
+
+* Esperamos a que el valor de la columna Last Run Status sea Success.
+
+    ![alt text](images/TransformSucess.png)            
 
 
 ### Lanzar Identity Resolution
@@ -127,66 +189,7 @@ sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 * Esperamos a que el valor de Publish Status de ambos segmentos sea Sucess.
 
     ![alt text](images/Publishstatus.png
-    Los segmentos tardarán algo más en aparecer en las carpetas seleccionadas de las plataformas cloud
-
-
-### Crear usuarios para testear
-
-* Pulsamos el engranaje de la parte superior derecha y seleccionamos Setup.
-
-    ![alt text](images/Setup.png)
-
-
-* En el buscador de la barra lateral izquierda buscamos Login Access Policies.
-    Activamos la opción Administrators Can Log in as Any User.
-
-    ![alt text](images/Loginpolices.png)
-
-
-* En el buscador de la barra lateral izquierda buscamos Users y hacemos click en Users.
-    Pulsamos el botón New User.
-
-    ![alt text](images/users.png)
-
-
-* Creamos dos usuarios. 
-    1. Un usuario con el correo electrónico laura.smith@women-at-work.org. Este usuario pertenecerá al departamento de internacional y su licencia será Salesforce Platform y su perfil será Standar Platform User.
-    ![alt text](images/Laura.png)
-
-    2. Un usuario con el correo electrónico lana.evans@women-at-work.org. Este usuario pertenecerá al departamento de nacional y su licencia será Salesforce Platform y su perfil será Standar Platform User.
-    ![alt text](images/Lana.png)    
-
-
-* En la barra lateral izquierda volvemos al menú Users.
-    Pulsamos el los dos usuarios creados.
-
-    ![alt text](images/createdusers.png)
-
-
-* Hacemos Scroll abajo y asignamos las siguientes licencias y permisos:
-    Permission Set License Assignments: Data Cloud
-    Permission Set Assignments: Data Cloud User
-
-    ![alt text](images/Permissions.png)
-
-
-### Lanzar Data Transform para asignar cada contacto con el usuario del departamento correspondiente
-
-* Hacemos click en el botón Data Transforms.
-
-    ![alt text](images/Transforms.png)
-
-* Hacemos click en el botón con la flecha en la parte derecha y seleccionamos Run Now.
-
-    ![alt text](images/Runtransform.png)
-
-* Seleccionamos la opción Run with all Data y hacemos click en el botón Run.
-
-    ![alt text](images/Alldata.png)    
-
-* Esperamos a que el valor de la columna Last Run Status sea Success.
-
-    ![alt text](images/TransformSucess.png)        
+    Los segmentos tardarán algo más en aparecer en las carpetas seleccionadas de las plataformas cloud.
 
 
 
