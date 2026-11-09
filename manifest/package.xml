@@ -240,20 +240,24 @@
         <members>Experiences_to_discover</members>
         <members>External_Guest_c_Home</members>
         <members>External_Reservation_c_Home</members>
+        <members>GCS_Activation</members>
         <members>Guest_Review_c_Home</members>
         <members>Guests</members>
         <members>Individual_ccid6</members>
+        <members>No_experiences_booked1794183138025</members>
         <members>Sales_Representative</members>
         <members>SalesforceDotCom_Home</members>
         <members>Semantic_layer3</members>
         <members>Session_c_Home</members>
         <members>User_Home</members>
+        <members>VIP_Customers1794182750279</members>
         <members>Vip_Next_season</members>
         <members>big_query_demo</members>
         <members>gcloud_storage</members>
         <members>reservations_deluxe</members>
         <members>reservations_standard</members>
         <members>reservations_suite</members>
+        <members>s3_Activation</members>
         <name>DataKitObjectTemplate</name>
     </types>
     <types>
@@ -321,6 +325,10 @@
         <members>Datakit_Completo_1794155639571</members>
         <members>Datakit_Completo_1794172190534</members>
         <members>Datakit_Completo_1794172191530</members>
+        <members>Datakit_Completo_1794183584131</members>
+        <members>Datakit_Completo_1794183635862</members>
+        <members>Datakit_Completo_1794183993522</members>
+        <members>Datakit_Completo_1794184064029</members>
         <name>DataPackageKitObject</name>
     </types>
     <types>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectTemplate xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <developerName xsi:nil="true"/>
+    <entityPayload>{&quot;dataSpaceName&quot;:&quot;default&quot;,&quot;isCappingEnabled&quot;:false,&quot;displayName&quot;:&quot;GCS_Activation&quot;,&quot;name&quot;:&quot;segments_gcloud_storage&quot;,&quot;egressProperties&quot;:&quot;{\&quot;lastModifiedDate\&quot;:null,\&quot;eTag\&quot;:\&quot;e4dc33b001a58abcc7c39fc6f4a007c1\&quot;,\&quot;weakEtag\&quot;:0,\&quot;id\&quot;:null,\&quot;name\&quot;:null,\&quot;label\&quot;:null,\&quot;namespace\&quot;:null,\&quot;createdBy\&quot;:null,\&quot;createdDate\&quot;:null,\&quot;lastModifiedBy\&quot;:null,\&quot;url\&quot;:null,\&quot;childFolder\&quot;:null,\&quot;isSubfolderCreationEnabled\&quot;:false,\&quot;customFilename\&quot;:null,\&quot;predeterminedFilename\&quot;:\&quot;SegmentActivation\&quot;,\&quot;filenameDateSuffixFormat\&quot;:\&quot;yyyy-MM-dd-HH-mm-ss\&quot;,\&quot;outputDelimiter\&quot;:\&quot;Comma\&quot;,\&quot;outputMaxFileSizeMegaBytes\&quot;:500,\&quot;outputMaxRecordsPerFile\&quot;:null,\&quot;outputCompressionFormat\&quot;:\&quot;Gzip\&quot;,\&quot;fileNameType\&quot;:\&quot;Predetermined\&quot;,\&quot;outputFormat\&quot;:\&quot;CSV\&quot;}&quot;,&quot;type&quot;:&quot;GoogleCloudStorage&quot;,&quot;developerName&quot;:&quot;GCS_Activation&quot;}</entityPayload>
+    <masterLabel>GCS_Activation</masterLabel>
+    <parentDataPackageKitDefinitionName xsi:nil="true"/>
+    <sourceObject>GCS_Activation</sourceObject>
+    <sourceObjectType>ActivationTarget</sourceObjectType>
+    <templateVersion>1</templateVersion>
+</DataKitObjectTemplate>
