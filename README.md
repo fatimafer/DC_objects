@@ -14,14 +14,23 @@ https://github.com/fatimafer/DC_connections.git
 Abrimos en el navegador el Playground de Data 360 que hemos creado en las instrucciones del repositorio anterior.
 Abrimos un terminal que tenga Salesforce CLI instalado, preferentemente en VSCODE.
 
+Vamos a nuestro home o carpeta desde donde queramos trabajar.
+```
+cd ~
+```
+
 Clonamos el respositorio y nos situamos en la carpeta donde lo hemos clonado.
 ```
-https://github.com/fatimafer/DC_objects.git
+git clone https://github.com/fatimafer/DC_objects.git
 ```
 ```
 cd DC_objects
 ```
 
+Si estamos conectados a otras org de Salesforce en CLI, nos desconectamos.
+```
+sf org logout
+```
 
 Nos conectamos al playground creado en el paso anterior.
 ```
@@ -98,6 +107,31 @@ sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 * Esperamos a que Last Run Status cambie a Success.
 
     ![alt text](images/CISucess.png)
+
+
+### Publicar segmentos
+
+* Vamos a la pestaña de Segments.
+
+    ![alt text](images/segments.png)
+
+* Clickamos en el nombre de ambos segmentos: Experiences to discover y Vip Next season.
+
+    ![alt text](images/segmentname.png)
+
+
+* Hacemos click en el botón flecha de la parte superior derecha y seleccionamos Publish Now.
+
+    ![alt text](images/publish.png)
+
+* Esperamos a que el valor de Publish Status de ambos segmentos sea Sucess.
+
+    ![alt text](images/Publishstatus.png
+    Los segmentos tardarán algo más en aparecer en las carpetas seleccionadas de las plataformas cloud
+
+
+
+
 
 
 
