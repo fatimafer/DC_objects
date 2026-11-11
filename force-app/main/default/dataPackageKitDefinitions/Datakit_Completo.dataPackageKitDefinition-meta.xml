@@ -9,5 +9,5 @@
     <isEnabled>false</isEnabled>
     <masterLabel>Datakit_Completo</masterLabel>
     <useDeterministicNaming>false</useDeterministicNaming>
-    <versionNumber>77.0</versionNumber>
+    <versionNumber>79.0</versionNumber>
 </DataPackageKitDefinition>
