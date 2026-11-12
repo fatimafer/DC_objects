@@ -72,10 +72,10 @@ sf project deploy start --manifest manifest/package.xml --target-org coral-cloud
 
 
 * Creamos dos usuarios. 
-    1. Un usuario con el correo electrónico laura.smith@women-at-work.org. Este usuario pertenecerá al departamento de internacional y su licencia será Salesforce Platform y su perfil será Standar Platform User.
+    1. Un usuario con el correo electrónico laura.smith@women-at-work.org. Este usuario pertenecerá al departamento de internacional y su licencia será Salesforce Platform y su perfil será Standard Platform User.
     ![alt text](images/Laura.png)
 
-    2. Un usuario con el correo electrónico lana.evans@women-at-work.org. Este usuario pertenecerá al departamento de nacional y su licencia será Salesforce Platform y su perfil será Standar Platform User.
+    2. Un usuario con el correo electrónico lana.evans@women-at-work.org. Este usuario pertenecerá al departamento de nacional y su licencia será Salesforce y su perfil será System Administrator.
     ![alt text](images/Lana.png)    
 
 
