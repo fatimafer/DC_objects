@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>Datakit_Completo</masterLabel>
-    <parentDataPackageKitDefinitionName>Datakit_Completo</parentDataPackageKitDefinitionName>
-    <referenceObjectName>No_experiences_booked1794183138025</referenceObjectName>
-    <referenceObjectType>DataKitObjectTemplate</referenceObjectType>
-</DataPackageKitObject>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>Import_Coral_Cloud_Objects</dataPackageKitDef>
+    <developerName>User_Home1</developerName>
+    <masterLabel>User_Home__dll</masterLabel>
+    <sourceObject>User_Home2</sourceObject>
+    <sourceObjectType>DataSourceObject</sourceObjectType>
+    <targetObject>User_Home1</targetObject>
+</DataKitObjectDependency>

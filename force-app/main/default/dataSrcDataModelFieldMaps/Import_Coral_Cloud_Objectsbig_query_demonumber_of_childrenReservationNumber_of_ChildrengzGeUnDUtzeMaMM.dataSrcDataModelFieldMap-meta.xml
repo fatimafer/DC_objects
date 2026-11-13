@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>Import_Coral_Cloud_Objectsbig_query_demonumber_of_childrenReservationNumber_of_ChildrengzGeUnDUtzeMaMM</masterLabel>
+    <sourceField>reservations_deluxe2.number_of_children__c</sourceField>
+    <targetField>Reservation__dlm.Number_of_Children__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

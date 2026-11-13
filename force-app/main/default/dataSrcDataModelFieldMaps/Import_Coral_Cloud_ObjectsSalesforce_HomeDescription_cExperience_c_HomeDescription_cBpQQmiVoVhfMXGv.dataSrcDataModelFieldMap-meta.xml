@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <masterLabel>Import_Coral_Cloud_ObjectsSalesforce_HomeDescription_cExperience_c_HomeDescription_cBpQQmiVoVhfMXGv</masterLabel>
+    <sourceField>Experience_c_Home2.Description_c__c</sourceField>
+    <targetField>Experience_c_Home__dlm.Description_c__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>

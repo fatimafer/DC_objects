@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <masterLabel>Datakit_Completo</masterLabel>
-    <parentDataPackageKitDefinitionName>Datakit_Completo</parentDataPackageKitDefinitionName>
-    <referenceObjectName>ExternalReservation_Contact_ID_c_map_ssot_Individual_ssot_Id_1722523859766</referenceObjectName>
-    <referenceObjectType>FieldSrcTrgtRelationship</referenceObjectType>
-</DataPackageKitObject>

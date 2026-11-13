@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataSrcDataModelFieldMap xmlns="http://soap.sforce.com/2006/04/metadata">
+    <filterApplied>false</filterApplied>
+    <filterOperationType>Equal</filterOperationType>
+    <masterLabel>Import_Coral_Cloud_ObjectsAWS_Redshiftpayment_statusReservationPayment_StatusISZWSivifhYtSjw</masterLabel>
+    <sourceField>reservations_suite2.payment_status__c</sourceField>
+    <targetField>Reservation__dlm.Payment_Status__c</targetField>
+    <templateVersion>1</templateVersion>
+    <versionNumber>1.0</versionNumber>
+</DataSrcDataModelFieldMap>
